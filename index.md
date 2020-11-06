@@ -1,13 +1,13 @@
 
 ### Mir Mohammad Kamali
-<a href="http://uupload.ir/view/rnde_mohammad.jpg" target="_blank"><img src="http://uupload.ir/files/rnde_mohammad_thumb.jpg" border="0" alt="آپلود عکس" /></a>
+<a href="http://uupload.ir/view/rnde_mohammad.jpg" target="_blank"><img src="https://reg1.pnu.ac.ir/_Templates/ShowStdPic/ShowStdPic.aspx?0.22548932728526627" border="0" alt="آپلود عکس" /></a>
 
 ### Personal informations
 
 ---
-+ name: Mir mohammad
-+ last name : kamali
-+ Date of birth : 1999/April/10
++ name: mobina
++ last name :rayeji
++ Date of birth : 1998/may/24
 + I am a trader and Computer engineering student
 + location : Tehran , I.R.Iran
 
@@ -22,8 +22,8 @@
 ### Education
 
 ---
-+ Diploma : Shahid Dr.Chamran school
-_ 2015
++ Diploma :iman school
+_ 2014
 + Bachelor of science : computer Engineering
 _ 2018,payam Noor University of Rey 
 
@@ -31,7 +31,7 @@ _ 2018,payam Noor University of Rey
 
 ---
 + Trade
-+ ping-pong
++ basketball
 + travel 
 + playing video games
 
