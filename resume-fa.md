@@ -4,7 +4,7 @@ body{
 }
 </style>
 ### مبینارائیجی
-<a href="http://uupload.ir/view/rnde_mohammad.jpg" target="_blank"><img src="http://uupload.ir/files/rnde_mohammad_thumb.jpg" border="0" alt="آپلود عکس" /></a>
+<a href="http://uupload.ir/view/rnde_mohammad.jpg" target="_blank"><img src="https://uupload.ir/files/xsog_showstdpic.jpg" border="0" alt="آپلود عکس" /></a>
 
 ### اطلاعات شخصی
 
