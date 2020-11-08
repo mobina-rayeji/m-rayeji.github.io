@@ -8,15 +8,15 @@
 + name: mobina
 + last name :rayeji
 + Date of birth : 1998/may/24
-+ I am a trader and Computer engineering student
++ I am a content production and SEO
 + location : Tehran , I.R.Iran
 
 
 ### Skill Highlights
 
 ---
-+ trade on Tehran Stock Exchange and Forex
-+ Programming
++violinist
++ painter
 + playing games on best leagues
 
 ### Education
@@ -25,22 +25,21 @@
 + Diploma :iman school
 _ 2014
 + Bachelor of science : computer Engineering
-_ 2018,payam Noor University of Rey 
+_ 2018,payam Noor University of North Tehran
 
 ### Favorites
 
 ---
-+ Trade
 + basketball
 + travel 
-+ playing video games
++ watch movie
 
 ### working Experience
 
 ---
-+ I am working  .
++ I am working for a comsties company .
 
-### [contact with me](https://web.telegram.org/#/im?p=@M7M_K)
+### [contact with me](https://t.me/Mobiraie)
 
 
 --- 
