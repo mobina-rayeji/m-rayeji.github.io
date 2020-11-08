@@ -17,7 +17,6 @@
 ---
 + violinist
 + painter
-+ playing games on best leagues
 
 ### Education
 
