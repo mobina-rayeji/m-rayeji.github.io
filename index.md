@@ -15,7 +15,7 @@
 ### Skill Highlights
 
 ---
-+violinist
++ violinist
 + painter
 + playing games on best leagues
 
